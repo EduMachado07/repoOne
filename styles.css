@@ -6,5 +6,9 @@
 body {
     width: 100%;
     height: 100dvh;
-    background-color: #0a86ce;
+    background-color: #0ace62;
+}
+
+h1 {
+    color: red;
 }
